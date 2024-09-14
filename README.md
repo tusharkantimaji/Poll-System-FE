@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project setup
+Create a .env file with 
+```bash
+PORT=3001
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
